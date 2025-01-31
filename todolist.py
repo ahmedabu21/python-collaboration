@@ -24,10 +24,13 @@ while x==2:
             print("Task #", i+1,":",tasks[i])
         completed= input("which tasks have you completed ")
         taskstatus[i]='COMPLETE'
-        
+    
+    
+    
+print(ghhgjh)
        
         
-        
+        #testing if it updates 
             
     
         
